@@ -79,15 +79,18 @@ This project demonstrates how financial transaction data can be transformed into
 
 It supports financial performance monitoring, customer segmentation analysis, regional comparisons, and informed business decision-making.
 
+<img width="1432" height="746" alt="image" src="https://github.com/user-attachments/assets/ac1098f7-9eb1-4a17-b046-166c640031d7" />
+
+<img width="1407" height="751" alt="image" src="https://github.com/user-attachments/assets/d0c6e17e-3daa-43d4-b837-3219580fddb5" />
+
 ## Author
 
 **Kiruthika Aruchamy**
 
 Data Analytics | SQL | Python | Power BI | Excel
 
-<img width="1432" height="746" alt="image" src="https://github.com/user-attachments/assets/ac1098f7-9eb1-4a17-b046-166c640031d7" />
 
-<img width="1407" height="751" alt="image" src="https://github.com/user-attachments/assets/d0c6e17e-3daa-43d4-b837-3219580fddb5" />
+
 
 
 
